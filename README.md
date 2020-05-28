@@ -5,9 +5,6 @@ Official pytorch implementation for "Copy-and-Paste Networks for Deep Video Inpa
 
 [[Paper](https://arxiv.org/abs/1908.11587)] [[Supp](https://www.dropbox.com/s/mteo5artx5jb4nh/2855-supp.pdf?dl=1)]
 
-### Video result
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BKdxR9bQQMU/0.jpg)](https://www.youtube.com/watch?v=BKdxR9bQQMU)
-
 ### Requirements
 - python 3.6
 - pytorch 0.4
